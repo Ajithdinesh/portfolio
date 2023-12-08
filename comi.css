@@ -1,0 +1,87 @@
+/* div p{
+    color: aquamarine;
+}
+ */
+/* 
+div>p{
+    color: blue;
+} */
+
+/* div+p{
+    color: blue;
+} */
+
+/* div~p{
+    color: blue;
+} */
+/* 
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: crimson;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: darkmagenta;
+}
+
+img:hover{
+    opacity: 50%;
+    padding-left: 50px;
+}
+
+p{
+    display: none;
+    color: brown;
+}
+div:hover p{
+    display: block;
+} */
+
+
+
+/* #p1::first-line{
+    color: blue;
+} */
+
+/* #p1::first-letter{
+    color: blue;
+} */
+
+/* #p1::after{
+    content:"💕";
+}
+
+#p1::before{
+    content:"💕";
+}
+li::marker{
+    color: rgb(42, 104, 165);
+}
+
+span::selection{
+    color: aqua;
+    background-color: darkgreen;
+} */
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+li a{
+    text-decoration: none;
+    display: block;
+}
+li{
+    background-color: aqua;
+}
+
+li a:hover{
+    background-color: gray;
+}

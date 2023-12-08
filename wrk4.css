@@ -1,0 +1,75 @@
+ul{
+    text-align: end;
+
+}
+li{
+    display:inline;
+    
+}
+li a{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: black;
+}
+li a:hover{
+    background-color: red;
+}
+#div1{
+    margin-top: 250px;
+    margin-left: 200px;
+
+}
+span{
+    color: rgb(255, 208, 0);
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#button{
+    background-color: black;
+    color:white;
+    height: 50px;
+    width: 120px;
+    border-radius:5px;
+}
+.shape{
+    height: 450px;
+    width: 400px;
+    position:absolute;
+    right:250px;
+    bottom: 180px
+}
+.girl{
+    height: 450px;
+    width: 320px;
+    position: absolute;
+    right: 290px;
+    bottom: 180px;
+}
+#logo{
+    height:50px;
+    width:80px;
+    position: absolute;
+    bottom:660px;
+    left:100px;
+}
+/* #dribble{
+    height: 50px;
+    width: 80px;
+} */
+.div2:hover .shape{
+    position:absolute;
+    bottom: 200px;
+    transition-duration: 0.5s;
+}
+.div2:hover .girl{
+    position:absolute;
+    right: 320px;
+    transition-duration: 0.5s;
+}
+h1{
+    font-size:60px;
+}
+p{
+    font-size:20px;
+}

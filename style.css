@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    border:2px dashed crimson;
+}
+
+
+#id1{
+    color: rgb(255, 0, 208);
+    border:2px dashed rgb(20, 177, 220);
+    background-color: black;
+    padding:50px 25px 50px 25px;
+    margin: 30px;
+    text-align: center;
+}
+
+
+#id2{
+    color: rgb(255, 230, 0);
+    border:2px dashed rgb(220, 20, 20);
+}
+
+.c1{
+    background-color:blue;
+    border:2px dashed rgb(220, 20, 20);
+
+}
+
+
